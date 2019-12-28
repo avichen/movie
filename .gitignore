@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # See https://www.dartlang.org/guides/libraries/private-files
 
 # Files and directories created by pub
@@ -20,7 +20,7 @@ doc/api/
 *.js_
 *.js.deps
 *.js.map
-=======
+
 # Miscellaneous
 *.class
 *.log
@@ -58,4 +58,5 @@ lib/generated_plugin_registrant.dart
 
 # Exceptions to above rules.
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
->>>>>>> Initial commit
+
+/ios/*.lock
