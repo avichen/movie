@@ -1,6 +1,6 @@
 # movie
 
-A Fluuter Movie App
+A Flutter Movie App
 
 ## Getting Started
 
